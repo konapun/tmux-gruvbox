@@ -1,0 +1,17 @@
+colour0: background
+colour1: red
+colour2: green
+colour3: yellow
+colour4: blue
+colour5: purple
+colour6: cyan
+colour7: white
+colour8: brightBlack
+colour9: brightRed
+colour10: brightGreen
+colour11: brightYellow
+colour12: brightBlue
+colour13: brightPurple
+colour14: brightCyan
+colour15: brightWhite
+colour16: black
